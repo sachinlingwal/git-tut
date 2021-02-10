@@ -1,2 +1,1 @@
-utility function for version 
-sss
+utility function for version 3
